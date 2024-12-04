@@ -12,7 +12,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=mahadishaikat&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" style="vertical-align: top;" height="200">
     </td>
   </tr>
-  <tr style="height: 200px;">
+  <tr style="height: 500px;">
     <td colspan="2" align="center" valign="middle">
       <a href="https://visitcount.itsvg.in">
         <img src="https://visitcount.itsvg.in/api?id=mahadishaikat&icon=0&color=0" alt="Visitor Count">
