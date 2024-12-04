@@ -13,7 +13,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <td colspan="2" align="center" valign="middle" style="height: 100px;">
       <a href="https://visitcount.itsvg.in">
         <img src="https://visitcount.itsvg.in/api?id=mahadishaikat&icon=0&color=0" alt="Visitor Count">
       </a>
