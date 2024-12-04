@@ -4,7 +4,7 @@
 
 ###
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mahadishaikat&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=mahadishaikat&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
 # 📊 GitHub Stats:
 <!-- ![](https://github-readme-stats.vercel.app/api?username=mahadishaikat&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
