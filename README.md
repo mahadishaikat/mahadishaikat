@@ -14,7 +14,7 @@
   </tr>
   <tr>
     <td colspan="2" align="center" valign="middle">
-      <a href="https://visitcount.itsvg.in">
+      <a href="https://visitcount.itsvg.in"><br>
         <img src="https://visitcount.itsvg.in/api?id=mahadishaikat&icon=0&color=0" alt="Visitor Count">
       </a>
     </td>
