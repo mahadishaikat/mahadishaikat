@@ -13,13 +13,13 @@
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center" valign="middle"> 
+    <td colspan="2" align="center" valign="middle">Profile Views
     </td>
   </tr>
     <tr>
     <td colspan="2" align="center" valign="middle">
       <a href="https://visitcount.itsvg.in">
-        <img src="https://visitcount.itsvg.in/api?id=mahadishaikat&icon=1&color=1" alt="Visitor Count">
+        <img src="https://visitcount.itsvg.in/api?id=mahadishaikat&icon=2&color=2" alt="Visitor Count">
       </a>
     </td>
   </tr>
